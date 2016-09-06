@@ -1,11 +1,15 @@
 {
-    "name": "servit/l5mpdf",
+    "name": "jacob_v_dam/l5mpdf",
     "description": "mPDF wrapper for Laravel 5",
     "keywords": ["laravel","mpdf", "pdf"],
     "authors": [
       {
             "name": "thongchai",
             "email": "limweb@hotmail.com"
+        },
+      {
+            "name": "Jacob van Dam",
+            "email": "j.vandam@jvdict.nl"
         }
     ],
     "require": {
